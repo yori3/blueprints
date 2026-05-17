@@ -20,7 +20,7 @@
       "step": "importWxr",
       "file": {
         "resource": "url",
-        "url": "https://YOUR_HOST/YOUR_PATH/content.xml"
+        "url": "https://github.com/yori3/blueprints/blob/master/demo.WordPress.2026-05-14.xml"
       }
     }
   ]
